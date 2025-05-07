@@ -1,6 +1,6 @@
 # Panel Administrativo Web con ReactJS y Vite
 **Taller ReactJS – Desarrollo de Aplicaciones Empresariales**  
-**I Semestre 2025** – Prof. Carlos Adolfo Beltrán Castro
+**5 Semestre 2025** – Prof. Carlos Adolfo Beltrán Castro
 
 ## Descripción
 Ejercicio práctico: sitio web usando React con Vite que simula un panel administrativo con navegación moderna.
